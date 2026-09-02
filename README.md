@@ -105,7 +105,7 @@
     Developing analytical data models and interactive dashboards for
     data-driven decision-making.
     <br>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0011227524001553">
+    <a href="https://github.com/Akram-Quark/Power-Bi-data-Modeling/tree/main">
     Explore the project
     </a>
   </li>
