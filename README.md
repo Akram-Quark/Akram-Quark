@@ -92,7 +92,7 @@
     Designing structured data warehouse solutions for reporting, analytics,
     and business intelligence.
     <br>
-    <a href="https://link.springer.com/article/10.1007/s10825-024-02270-6">
+    <a href="https://github.com/Akram-Quark/Data-Warehouse/tree/main">
     Explore the project
     </a>
   </li>
